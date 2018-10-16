@@ -1,2 +1,3 @@
 Contents of Folder E MyFile.txt for initial commit (master)
 Contents of Folder E MyFile.txt edit 01 (dev)
+Contents of Folder E MyFile.txt edit 01 (patch-2.0.0)
